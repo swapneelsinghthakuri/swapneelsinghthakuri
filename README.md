@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swapneel Singh Thakuri</h1>
 <h3 align="center">"I am a learner, and I would love to learn coding in Python programming."</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapneelsinghthakuri&label=Profile%20views&color=0e75b6&style=flat" alt="swapneelsinghthakuri" /> </p>
+
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWyeITm7cFbpmCfkpdKJYDdpZ-pE_aKngYuWZrZpddKUVjHveWfid37y-Wv-05CE5STiROlTNgPn1X2uKfjUVSH6I60euFibbmC08LvAoWRUmPrVRdQJDYvMSYTjgn1Zzw0ZPkPZkWeHzaVu_YQIknUH1MQ-vAk6dWxmUID4Wc_ZtKiTVhJ1__W0ssP6w/s1024/OIG.yv5CfYMjYpAp4Dk5jt3K.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1024" data-original-width="1024" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWyeITm7cFbpmCfkpdKJYDdpZ-pE_aKngYuWZrZpddKUVjHveWfid37y-Wv-05CE5STiROlTNgPn1X2uKfjUVSH6I60euFibbmC08LvAoWRUmPrVRdQJDYvMSYTjgn1Zzw0ZPkPZkWeHzaVu_YQIknUH1MQ-vAk6dWxmUID4Wc_ZtKiTVhJ1__W0ssP6w/s320/OIG.yv5CfYMjYpAp4Dk5jt3K.jpg" width="320" /></a></div><br />&nbsp;
 
 - 🔭 I’m currently working on **Python Programming**
@@ -25,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapneelsinghthakuri&show_icons=true&locale=en" alt="swapneelsinghthakuri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapneelsinghthakuri&" alt="swapneelsinghthakuri" /></p>
+
